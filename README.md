@@ -36,3 +36,8 @@ serial連線 https://editor.p5js.org/alanhc/sketches/ILrZMsoO7
 深度學習訓練 https://editor.p5js.org/alanhc/sketches/FmNlDsPjv     
 KNN訓練及測試 https://editor.p5js.org/alanhc/sketches/Zhxob2BQa
 介面調整及測試 https://editor.p5js.org/alanhc/sketches/Tpc-lw1Xi
+
+## 螢幕截圖
+![](img/Screen1.png)
+![](img/Screen2.png)
+![](img/Screen3.png)
