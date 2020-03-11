@@ -1,6 +1,6 @@
 
 # drum.io
-[![Landing:Planet](http://img.youtube.com/vi/82d7E0uENcg/0.jpg)](https://youtu.be/82d7E0uENcg)
+[![drum_io](http://img.youtube.com/vi/82d7E0uENcg/0.jpg)](https://youtu.be/82d7E0uENcg)
 
 ## 說明你做了什麼
 學javascript es6的語法規則、p5.js與processing的不同，了解socket網路通訊程式原理，
