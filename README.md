@@ -28,10 +28,6 @@
 * 互動裝置（Arduino及三軸感測器...
 * 即時戰況表
 
-由於此project有點小複雜，若裝置不能動有可能是p5.serial 沒有設定好，請參照 https://github.com/vanevery/p5.serialport
-但由於p5.serial 與此專案一起使用時，同步會受到影響，因此我已將此連線功能拿掉，若要嘗試請使用
-
-
 serial連線 https://editor.p5js.org/alanhc/sketches/ILrZMsoO7
 深度學習訓練 https://editor.p5js.org/alanhc/sketches/FmNlDsPjv     
 KNN訓練及測試 https://editor.p5js.org/alanhc/sketches/Zhxob2BQa
