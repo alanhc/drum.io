@@ -24,7 +24,7 @@ function setup()
     life=100;
     players=0;
     hostPlayer="";
-    socket = io('http://192.168.1.109:3000');
+    socket = io('http://0.0.0.0:3000');
     socket.on('player join', (playersIn, hostPlayerIn)=>{
         players=playersIn;
         hostPlayer=hostPlayerIn;
