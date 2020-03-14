@@ -15,6 +15,7 @@
 3. 將serial.js裡 /dev/ttyACM0 改成您的Arduino 101位址
 4. 進資料夾，在小黑下 npm run start（必須有nodejs在電腦上
 5. 接上開發版即可開始玩
+6. 瀏覽器打開{server ip}:3000即可開始玩
 
 ## 賣點是什麼
 * 可以多人遊玩
