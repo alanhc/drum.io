@@ -12,10 +12,9 @@
 ## 如何操作
 1. 將瀏覽器的自動播放功能打開 設定 進階設定 隱私 音效 允許 {server ip}
 2. 參照p5.js serial library 先將整個repository clone下來，npm install，node startServer.js（照著網頁guide做 
-3. 將gm.js裡的192.168.1.109改成您的ip位址
-4. 將serial.js裡 /dev/ttyACM0 改成您的Arduino 101位址
-5. 進資料夾，在小黑下 npm run start（必須有nodejs在電腦上
-6. 接上開發版即可開始玩
+3. 將serial.js裡 /dev/ttyACM0 改成您的Arduino 101位址
+4. 進資料夾，在小黑下 npm run start（必須有nodejs在電腦上
+5. 接上開發版即可開始玩
 
 ## 賣點是什麼
 * 可以多人遊玩
