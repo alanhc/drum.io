@@ -15,17 +15,10 @@ drum.io
 6. 接上開發版即可開始玩
 7. 瀏覽器打開{server ip}:3000即可開始玩
 
-## 賣點是什麼
-* 可以多人遊玩
-* 深度學習訓練自己的Air drum
-* 可以連線戰鬥
+## 遊戲方式
+電腦版不接裝置直接照著上方 How to run clone此專案，使用電腦的1~5代表不同的鼓
 
-## 困難點是什麼
-* 多人連線（寫好協定讓彼此可以跑一樣的視窗及不會打架 使用nodejs socket io
-* 機器學習（訓練使準確率提升 ml5 library (base on tensorflow js)
-* 互動裝置（Arduino及三軸感測器...
-* 即時戰況表
-
+## 其他資源
 serial連線 https://editor.p5js.org/alanhc/sketches/ILrZMsoO7
 深度學習訓練 https://editor.p5js.org/alanhc/sketches/FmNlDsPjv     
 KNN訓練及測試 https://editor.p5js.org/alanhc/sketches/Zhxob2BQa
