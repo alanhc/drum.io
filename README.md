@@ -1,15 +1,13 @@
+drum.io
+=====
+此專案的靈感來自[Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)、[teachablemachine](https://teachablemachine.withgoogle.com/)及[Agar](https://agar.io/?)。此為結合一般互動裝置、機器學習及多人連線的對戰遊戲，遊戲狀態分為host與play兩個階段，當某個client在host階段，其他就負責檢查是否有與打一樣，有點像請你跟我這樣做，若client打錯的時候分數會落到host中。
+使用到的技術：p5.js、KNN(ml5.js)演算法、C(Arduino)、及一些其他p5相關library。
 
-# drum.io
+## Video
 [![drum_io](http://img.youtube.com/vi/82d7E0uENcg/0.jpg)](https://youtu.be/82d7E0uENcg)
 
-## 說明你做了什麼
-學javascript es6的語法規則、p5.js與processing的不同，了解socket網路通訊程式原理，
-花最多時間在多人連線的部分，需要畫出狀態圖及流程圖，與一般程式思考邏輯不太一樣
-分為host與play兩個階段，當某個client在host階段 其他就負責檢查是否有與打一樣，有點像請你跟我這樣做
-再花點時間debug
-深度學習是否要多層訓練比較好等等
-
-## 如何操作
+## How to run
+1. clone此專案:```clone this project:git clone https://github.com/DSC-TW/dino-posenet.git```
 1. 將瀏覽器的自動播放功能打開 設定 進階設定 隱私 音效 允許 {server ip}
 2. 參照p5.js serial library 先將整個repository clone下來，npm install，node startServer.js（照著網頁guide做 
 3. 將serial.js裡 /dev/ttyACM0 改成您的Arduino 101位址
