@@ -7,7 +7,7 @@ drum.io
 [![drum_io](http://img.youtube.com/vi/82d7E0uENcg/0.jpg)](https://youtu.be/82d7E0uENcg)
 
 ## How to run
-1. clone此專案:```clone this project:git clone https://github.com/DSC-TW/dino-posenet.git```
+1. clone此專案:```git clone https://github.com/alanhc/drum.io.git```
 2. 將瀏覽器的自動播放功能打開 設定 進階設定 隱私 音效 允許 {server ip}
 3. 參照p5.js serial library 先將整個repository clone下來，npm install，node startServer.js（照著網頁guide做 
 4. 將serial.js裡 /dev/ttyACM0 改成您的Arduino 101位址
