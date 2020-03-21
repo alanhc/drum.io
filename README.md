@@ -1,6 +1,6 @@
 drum.io
 =====
-此專案的靈感來自[Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)、[teachablemachine](https://teachablemachine.withgoogle.com/)及[Agar.io](https://agar.io/?)。此為結合一般互動裝置、機器學習及多人連線的對戰遊戲，遊戲狀態分為host與play兩個階段，當某個client在host階段，其他就負責檢查是否有與打一樣，有點像請你跟我這樣做，若client打錯的時候分數會落到host中。
+此專案的靈感來自[Chrome Music Lab](https://musiclab.chromeexperiments.com/Experiments)、[teachablemachine](https://teachablemachine.withgoogle.com/)及[Agar.io](https://agar.io/?)。為結合一般互動裝置、機器學習及多人連線的對戰遊戲，遊戲狀態分為host與play兩個階段，當某個client在host階段，其他就負責檢查是否有與打一樣，有點像請你跟我這樣做，若client打錯的時候分數會落到host中。
 使用到的技術：p5.js、KNN(ml5.js)演算法、C(Arduino)、及一些其他p5相關library。
 
 ## Video
