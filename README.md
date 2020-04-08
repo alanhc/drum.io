@@ -13,7 +13,8 @@ drum.io
 4. 將serial.js裡 /dev/ttyACM0 改成您的Arduino 101位址
 5. 進資料夾，在小黑下 npm run start（必須有nodejs在電腦上
 6. 接上開發版即可開始玩
-7. 瀏覽器打開{server ip}:3000即可開始玩
+7. public/gm.js 的http://192.168.1.109:3000 改成 http://{你的ip}:3000
+8. 瀏覽器打開{server ip}:3000即可開始玩
 
 ## 遊戲方式
 電腦版不接裝置直接照著上方 How to run clone此專案，使用電腦的1~5代表不同的鼓
